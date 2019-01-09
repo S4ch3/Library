@@ -20,12 +20,6 @@ form.addEventListener('submit', function(e)
     }
 });
 
-// ui.prototype.addBook = function(book)
-// {
-//     console.log(book);
-// }
-
-
 class Book
 {
     constructor(title, author, isbn)
